@@ -20,3 +20,4 @@ Key Features
 ☀️ Dynamic weather icons and background based on current conditions
 
 🔍 Recent search history with quick access).
+#OUTPUT:<img width="1901" height="902" alt="Image" src="https://github.com/user-attachments/assets/0e171f92-8586-4ca7-91fb-833b48a3704f" />
